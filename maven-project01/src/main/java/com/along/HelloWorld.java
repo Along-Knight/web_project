@@ -10,6 +10,7 @@ public class HelloWorld {
         System.out.println("Hello Maven");
         System.out.println("Hello Maven1");
         System.out.println("Hello Maven2");
+        System.out.println("hot-fix test");
 
     }
 }
